@@ -1,0 +1,1 @@
+To load the game, you must open the "main.py" for the game to work 
